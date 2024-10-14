@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://media.licdn.com/dms/image/v2/D5616AQHFqUuE-SPwXQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728813821364?e=1734566400&v=beta&t=eOKZQrTqN3ByEQzz4qIeTOIaGjTPXUUzR35Rwd3uHdc"></p>
 <h1 align="center">Hi🙋‍♂️, I am Ravidu Rathnayaka </h1>
 <h3 align="center"> <a href="https://www.linkedin.com/in/ravidurathnayaka/">Full-Stack Software Engineer</a> </h3>
 <h4 align="center">👨‍💻 I'm passionate to Full-Stack Web Development 👨‍💻</h4>
